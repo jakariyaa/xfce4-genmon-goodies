@@ -1,6 +1,6 @@
 # xfce4-genmon-goodies
 
-Collection of small utilities scripts for Xfce Generic Monitor Plugin.
+Collection of small utilities scripts for Xfce Generic Monitor Plugin in UNIX/Linux.
 
 **Projects**
 - **netmon**: Network monitor plugin. See [netmon README](netmon/README.md) and source at [`netmon/netmon.cpp`](netmon/netmon.cpp).
